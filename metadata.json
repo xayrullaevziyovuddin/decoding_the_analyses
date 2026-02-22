@@ -1,0 +1,5 @@
+{
+  "name": "Medical Analysis AI",
+  "description": "An application that allows users to upload a photo of their medical analysis and receive an AI-powered interpretation using Gemini. This tool is for informational purposes only.",
+  "requestFramePermissions": []
+}
